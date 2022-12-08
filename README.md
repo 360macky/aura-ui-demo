@@ -1,3 +1,11 @@
+# Aura UI Demo
+
+🎨 Demo of [GuruHotel](https://www.guruhotel.com/) Navbar component using [Aura UI](https://www.npmjs.com/package/@guruhotel/aura-ui) library.
+
+![Demo of navbar](/.github/demo.gif)
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
