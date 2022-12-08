@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import GuruHotelLogo from '../public/guruhotel.svg'
-import { Button, styled } from '@guruhotel/aura-ui'
+import { styled } from '@guruhotel/aura-ui'
 
 const NavButtonProps = {
   cursor: 'pointer',
