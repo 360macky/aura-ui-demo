@@ -1,8 +1,12 @@
-# Aura UI Demo
+# Aura UI Demo - GuruHotel Navbar
 
 🎨 Demo of [GuruHotel](https://www.guruhotel.com/) Navbar component using [Aura UI](https://www.npmjs.com/package/@guruhotel/aura-ui) library.
 
+**Demo navbar**
 ![Demo of navbar](/.github/demo.gif)
+
+**GuruHotel.com current navbar**
+![Demo of navbar](/.github/guruhotel.gif)
 
 ---
 
